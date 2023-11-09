@@ -15,7 +15,7 @@ Keep your tasks organized with our To Do List app! Built with HTML, CSS, and JS,
 
 - ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML5
 - ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
-- ![JavaScript](https://img.icons8.com/color/48/000000/
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript
 
 ## :camera_flash: Project Image
 
